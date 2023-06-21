@@ -11,3 +11,6 @@ Welcome to the Pong Game project! This is a classic arcade game where two player
 * If the ball goes past your opponent's paddle, you score a point.
 * The game will continue until one player reaches the maximum score limit (decided by you) or you choose to quit the game.
 
+## Requirements
+* Python 3.x
+* Turtle: The Pong Game utilizes the turtle module for creating the game graphics 
